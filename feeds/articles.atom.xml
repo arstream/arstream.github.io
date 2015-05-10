@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>arstream</title><link href="http://arstream.github.io/" rel="alternate"></link><link href="http://arstream.github.io/feeds/articles.atom.xml" rel="self"></link><id>http://arstream.github.io/</id><updated>2012-12-01T10:02:00+01:00</updated><entry><title>The second article</title><link href="http://arstream.github.io/blog/2012/12/01/the-second-article/" rel="alternate"></link><updated>2012-12-01T10:02:00+01:00</updated><author><name>Lev</name></author><id>tag:arstream.github.io,2012-12-01:blog/2012/12/01/the-second-article/</id><summary type="html">&lt;p&gt;See below intra-site link examples in Markdown format.
+Hi 
+this is me
+from Armenia&lt;/p&gt;</summary></entry></feed>
