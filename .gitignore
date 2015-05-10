@@ -1,0 +1,12 @@
+*.py[cod]
+__pycache__
+
+.idea/
+
+
+output/
+cache/
+.ipynb_checkpoints
+
+pelicanvenv/
+node_modules/
